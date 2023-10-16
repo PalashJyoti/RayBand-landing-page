@@ -83,6 +83,7 @@ html, body{
     left: 0;
     transform: translateY(-50%); 
     display: flex;
+    align-items: center;
     justify-content: space-between;
     width: 100%;
     /* background-color: red; */
@@ -120,7 +121,7 @@ html, body{
     pointer-events: all;
     padding: 0.2vw 3vw;
     font-size: 1.7vw;
-    margin-top: 6vw;
+    margin-top: 3vw;
     font-family: 'Anton';
     text-transform: uppercase;
     cursor: pointer;
